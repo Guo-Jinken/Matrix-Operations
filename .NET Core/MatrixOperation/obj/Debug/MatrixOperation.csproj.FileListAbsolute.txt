@@ -1,0 +1,48 @@
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\bin\Debug\MatrixOperation.dll
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\bin\Debug\MatrixOperation.pdb
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\bin\Debug\MatrixOperation.pri
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\MatrixOperation.csprojAssemblyReference.cache
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\MatrixOperation.csproj.CoreCompileInputs.cache
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\MatrixOperation.csproj.CopyComplete
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\MatrixOperation.dll
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\MatrixOperation.pdb
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\priconfig.xml
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\priconfig.xml.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\unfiltered.layout.resfiles
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\filtered.layout.resfiles
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\excluded.layout.resfiles
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\resources.resfiles
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\resources.resfiles.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\pri.resfiles
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\pri.resfiles.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\qualifiers.txt
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\MatrixOperation\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\bin\Debug\MatrixOperation.dll
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\bin\Debug\MatrixOperation.pdb
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\bin\Debug\MatrixOperation.pri
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\MatrixOperation.csprojAssemblyReference.cache
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\MatrixOperation.csproj.CoreCompileInputs.cache
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\MatrixOperation.csproj.CopyComplete
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\MatrixOperation.dll
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\MatrixOperation.pdb
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\priconfig.xml
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\priconfig.xml.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\unfiltered.layout.resfiles
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\filtered.layout.resfiles
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\excluded.layout.resfiles
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\resources.resfiles
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\resources.resfiles.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\pri.resfiles
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\pri.resfiles.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\qualifiers.txt
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Jinken Guo\Desktop\逆矩阵解算器\.NET Core\MatrixOperation\obj\Debug\MultipleQualifiersPerDimensionFound.txt
